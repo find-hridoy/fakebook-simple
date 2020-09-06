@@ -1,0 +1,15 @@
+.link-btn {
+    text-decoration: none;
+}
+
+.post-title {
+    text-transform: capitalize;
+    color: #3F51B5;
+    height: 100px;
+}
+
+.post-paragraph {
+    color: gray;
+    padding-bottom: 15px;
+    height: 120px;
+}

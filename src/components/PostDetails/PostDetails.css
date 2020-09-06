@@ -1,0 +1,23 @@
+.post-details {
+    background: #E9EBEE;
+    padding: 30px 0;
+}
+
+.card-area {
+    width: 600px;
+    margin: auto;
+}
+
+.title-text {
+    text-transform: capitalize;
+}
+
+.comment-area {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.comment-items {
+    margin: 8px 0;
+}
